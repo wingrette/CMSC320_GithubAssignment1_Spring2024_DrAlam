@@ -1,0 +1,7 @@
+Why are you interested in taking CMSC320?
+I'm interested in taking CMSC320 because data science is a growing and important
+field in the modern day. With the increase in social media at least,
+hours and hours of content are being created at unprecedented speeds, and 
+the handling of all of it is facinating. 
+I think it's great that UMD has this introductory course and I'd like
+to learn more about what exactly data science is.
